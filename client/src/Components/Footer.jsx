@@ -14,7 +14,7 @@ export default function Footer() {
           rights reserved
         </h3>
         <div className="footer-more">
-          <ul>
+          <ul className="footer-navs">
             <li>About Us</li>
             <li>Privacy</li>
             <li>Terms</li>

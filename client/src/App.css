@@ -19,6 +19,10 @@ body {
   font-family: Arial, sans-serif;
   color: #333;
 }
+.Home {
+  width: 100%;
+  overflow: hidden;
+}
 /*HEADER*/
 .header-container {
   display: flex;
@@ -109,8 +113,7 @@ body {
 .service-card p {
   font-size: 1rem;
 }
-
-.images-section {
+delete my project .images-section {
   margin-bottom: 3rem;
 }
 
@@ -192,13 +195,9 @@ h3 {
   margin-top: 1rem;
 }
 
-.footer-more {
-  display: flex;
-  gap: 1rem;
-}
-
 .footer-more ul {
   display: flex;
+  justify-content: space-between;
   gap: 1rem;
   list-style-type: none;
   padding: 0;
