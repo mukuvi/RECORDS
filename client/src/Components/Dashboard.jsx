@@ -44,21 +44,21 @@ export default function Dashboard() {
           <div className="images-container">
             <div className="image-item">
               <img
-                src="https://3.bp.blogspot.com/-DXyjVnIYYJs/VylFTSd0flI/AAAAAAAAB14/JURyEvv8tBs1fIIAjm6fcu0LZORA7zWyQCLcB/s1600/computer-04.jpg"
+                src="https://leaf-it.com/wp-content/uploads/2023/04/WP-Article-Pics-750-%C3%97-500px-7.png"
                 alt="Cybersecurity"
               />
               <p>Cybersecurity Solutions</p>
             </div>
             <div className="image-item">
               <img
-                src="https://3.bp.blogspot.com/-DXyjVnIYYJs/VylFTSd0flI/AAAAAAAAB14/JURyEvv8tBs1fIIAjm6fcu0LZORA7zWyQCLcB/s1600/computer-04.jpg"
+                src="https://cdn2.hubspot.net/hub/440253/file-2319097016-png/network.png"
                 alt="Networking"
               />
               <p>Networking Solutions</p>
             </div>
             <div className="image-item">
               <img
-                src="https://3.bp.blogspot.com/-DXyjVnIYYJs/VylFTSd0flI/AAAAAAAAB14/JURyEvv8tBs1fIIAjm6fcu0LZORA7zWyQCLcB/s1600/computer-04.jpg"
+                src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-12/laptop-agencies-consulting-website-development-companies.png"
                 alt="Web & App"
               />
               <p>Web & App Development</p>
