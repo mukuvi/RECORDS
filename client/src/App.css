@@ -58,10 +58,10 @@ body {
 /*DASHBOARD*/
 .dashboard-container {
   padding: 3rem 2rem;
-  background-color: #243b53; /* Dark blue background to match the theme */
+  background-color: #243b53;
   color: white;
   margin: 2rem auto;
-  max-width: 1260px; /* Max width for consistent alignment */
+  max-width: 1260px;
 }
 
 .company-info {
@@ -145,7 +145,7 @@ body {
   margin-top: 2rem;
   text-align: center;
   font-size: 1.2rem;
-  color: #ff6347; /* Highlight color for moving text */
+  color: #ff6347;
 }
 
 .moving-text marquee {
