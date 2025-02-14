@@ -10,8 +10,8 @@ export default function Footer() {
           <li>Gmail</li>
         </ul>
         <h3>
-          Copyright @ {new Date().getFullYear()} JTthree Globally - All rights
-          reserved
+          Copyright &copy; {new Date().getFullYear()} JTthree Globally - All
+          rights reserved
         </h3>
         <div className="footer-more">
           <ul>
