@@ -3,7 +3,7 @@ export default function Dashboard() {
     <>
       <div className="dashboard-container">
         <div className="company-info">
-          <h2>About Us</h2>
+          <h2>JTHREE GLOBALLY</h2>
           <p>
             We are a leading company offering high-quality services in
             Cybersecurity, Networking, and Web & App Development. Our mission is
@@ -44,17 +44,23 @@ export default function Dashboard() {
           <div className="images-container">
             <div className="image-item">
               <img
-                src="https://via.placeholder.com/300x200"
+                src="https://3.bp.blogspot.com/-DXyjVnIYYJs/VylFTSd0flI/AAAAAAAAB14/JURyEvv8tBs1fIIAjm6fcu0LZORA7zWyQCLcB/s1600/computer-04.jpg"
                 alt="Cybersecurity"
               />
               <p>Cybersecurity Solutions</p>
             </div>
             <div className="image-item">
-              <img src="https://via.placeholder.com/300x200" alt="Networking" />
+              <img
+                src="https://3.bp.blogspot.com/-DXyjVnIYYJs/VylFTSd0flI/AAAAAAAAB14/JURyEvv8tBs1fIIAjm6fcu0LZORA7zWyQCLcB/s1600/computer-04.jpg"
+                alt="Networking"
+              />
               <p>Networking Solutions</p>
             </div>
             <div className="image-item">
-              <img src="https://via.placeholder.com/300x200" alt="Web & App" />
+              <img
+                src="https://3.bp.blogspot.com/-DXyjVnIYYJs/VylFTSd0flI/AAAAAAAAB14/JURyEvv8tBs1fIIAjm6fcu0LZORA7zWyQCLcB/s1600/computer-04.jpg"
+                alt="Web & App"
+              />
               <p>Web & App Development</p>
             </div>
           </div>
