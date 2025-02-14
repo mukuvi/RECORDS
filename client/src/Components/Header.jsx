@@ -3,8 +3,8 @@ export default function Header() {
     <>
       <div className="header-container">
         <div className="header-logo">JTG</div>
-        <div className="navs-btn">
-          <ul>
+        <div className="navs-section">
+          <ul className="navs-btn">
             <li>Home</li>
             <li>About Us</li>
             <li>Services</li>
